@@ -7,7 +7,9 @@ I'm using several concepts and platforms for Sahdaya Map
 
 Dijkstra algorithm is used to solve the shortest path problem.Dijkstra’s algorithm is a generalization of the BFS algorithm. The regular BFS algorithm cannot solve the shortest path problem as it cannot guarantee that the vertex at the front of the queue is the vertex closest to sources.This algorithm is based on edges and verices.Through this we can find the shortest distance from various vertices(places). 
 
-https://user-images.githubusercontent.com/57263794/121799772-9804d880-cc4b-11eb-95cc-8675f9b12962.png
+![GitHub Logo](/images/wordpad_58KR8WTTxC.png)
+Format: ![Alt Text](https://user-images.githubusercontent.com/57263794/121799772-9804d880-cc4b-11eb-95cc-8675f9b12962.png)
+
 
 
  2. Google Cloud Platform
