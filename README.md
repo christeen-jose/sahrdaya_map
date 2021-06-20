@@ -47,23 +47,6 @@ Result:
  
  ![Alt Text](https://user-images.githubusercontent.com/57263794/121800062-5117e280-cc4d-11eb-86ff-782d8c259ec9.png)
 
-But here occurs several problems, because Google says that I have to buy the google cloud platform for $300 dollars for special features.ie,21,969.54 Indian Rupee. I stopped my current project due to this issue.
-
-My Result:
-
-![chrome_DeBujch2CE](https://user-images.githubusercontent.com/57263794/121810117-2a71a000-cc7d-11eb-9a45-27f3a98a458f.png)
-
-Options thus be like:
- 
-![Alt Text](https://user-images.githubusercontent.com/57263794/121800113-91776080-cc4d-11eb-9f35-2daa01045ea1.png)
-
-issue like:
-
-![YPHLlf5brT](https://user-images.githubusercontent.com/57263794/121800477-c1bffe80-cc4f-11eb-9f89-2826ed186930.png)
-
-
-I will resolve these problems accoring to my situvations.
-You can watch and access through these links
 
 *https://christeen-jose.github.io/sahrdaya_map/  (Website)
 
@@ -74,4 +57,7 @@ You can watch and access through these links
 
 Group Name: Marvel
 
-Members: Christeen Jose
+Members: Christeen Jose,
+         Godwin Baiju
+
+
