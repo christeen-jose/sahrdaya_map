@@ -36,7 +36,7 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 
  ![Alt Text](https://user-images.githubusercontent.com/57263794/153699234-92d72762-27c4-46a8-8a86-c6e9d51dfb9b.png)
 
-This map is uses to shows directions between two locations in Sahrdaya collehe.We can see a option for start point and end point.we can select several locations according to our needs.
+This map is uses to shows directions between two locations in Sahrdaya college.We can see a option for start point and end point.we can select several locations according to our needs.
 
 select any options like:
 
