@@ -19,8 +19,7 @@ For making a better API under Google resources,Google Cloud Platform is an inevi
 ### Google API Key
 ![api-key-created-1](https://user-images.githubusercontent.com/57263794/121800403-2890e800-cc4f-11eb-834d-5ce7cc832e29.png)
 
-### Link : 
-https://console.cloud.google.com
+### Link : https://console.cloud.google.com
 
 ### Disadvantages : 
 Sometimes we have to buy packages for better enhancement
@@ -31,22 +30,24 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 
 ![Alt Text](https://user-images.githubusercontent.com/57263794/121799901-840da680-cc4c-11eb-8481-c4ac6ffc0601.png)
 
-### Link : 
-https://github.com/
+### Link : https://github.com/
 
 ### Model
 
- ![Alt Text](https://user-images.githubusercontent.com/57263794/121799939-b6b79f00-cc4c-11eb-8835-1b9b3feaf068.png)
+ ![Alt Text](https://user-images.githubusercontent.com/57263794/153699234-92d72762-27c4-46a8-8a86-c6e9d51dfb9b.png)
 
-This map is uses to shows directions under google map between two locations.We can see a option for start point and end point.we can select several locations according to our needs.
+This map is uses to shows directions between two locations in Sahrdaya collehe.We can see a option for start point and end point.we can select several locations according to our needs.
 
 select any options like:
 
-![Alt Text](https://user-images.githubusercontent.com/57263794/121799987-f8e0e080-cc4c-11eb-900d-4e3df41671a2.png)
+![Alt Text]![ezXahprbfl]![PRx5yWbm6b](https://user-images.githubusercontent.com/57263794/153699639-50475d69-951f-4f90-aa31-67162e887fd9.png)
+
+
 
 ### Result:
  
- ![Alt Text](https://user-images.githubusercontent.com/57263794/121800062-5117e280-cc4d-11eb-86ff-782d8c259ec9.png)
+ ![Alt Text]![brave_lFHWp53OLd](https://user-images.githubusercontent.com/57263794/153699711-33752fca-e326-4c1d-8bea-ca41adf0b0dd.png)
+
 
 
 ***https://christeen-jose.github.io/sahrdaya_map/  (Website)***
