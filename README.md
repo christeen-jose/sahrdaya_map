@@ -40,13 +40,13 @@ This map is uses to shows directions between two locations in Sahrdaya collehe.W
 
 select any options like:
 
-![Alt Text]![ezXahprbfl]![PRx5yWbm6b](https://user-images.githubusercontent.com/57263794/153699639-50475d69-951f-4f90-aa31-67162e887fd9.png)
+![PRx5yWbm6b](https://user-images.githubusercontent.com/57263794/153699639-50475d69-951f-4f90-aa31-67162e887fd9.png)
 
 
 
 ### Result:
  
- ![Alt Text]![brave_lFHWp53OLd](https://user-images.githubusercontent.com/57263794/153699711-33752fca-e326-4c1d-8bea-ca41adf0b0dd.png)
+![brave_lFHWp53OLd](https://user-images.githubusercontent.com/57263794/153699711-33752fca-e326-4c1d-8bea-ca41adf0b0dd.png)
 
 
 
