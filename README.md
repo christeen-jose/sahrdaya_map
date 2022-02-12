@@ -3,13 +3,13 @@ This repo contains code that contain the map of Sahrdaya college of Engineering
 
 I'm using several concepts and platforms for Sahdaya Map
 
- 1. Dijkstra Algorithm
+ [1. Dijkstra Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 Dijkstra algorithm is used to solve the shortest path problems.Dijkstra’s algorithm is a generalization of the BFS algorithm. The regular BFS algorithm cannot solve the shortest path problem as it cannot guarantee that the vertex at the front of the queue is the vertex closest to sources.This algorithm is based on edges and verices.Through this we can find the shortest distance from various vertices(places). 
 
  ![Alt Text](https://user-images.githubusercontent.com/57263794/121799772-9804d880-cc4b-11eb-95cc-8675f9b12962.png)
 
- 2. Google Cloud Platform
+ [2. Google Cloud Platform](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
 
 For making a better API under Google resources,Google Cloud Platform is an inevitable one.for example to make youtube API under Kodi Application we have to need Youtube v3 API.Likeways for making a map for getting the shortest distance, we have to need enabling Map API under Google Libraries in Google Cloud Platform and we have to get an unique id called API Key for running interface according to our needs like website,mobile applications etc
 
@@ -24,7 +24,7 @@ https://console.cloud.google.com
 Disadvantages : 
 Sometimes we have to buy packages for better enhancement
 
-3. Github
+[3. Github](https://en.wikipedia.org/wiki/GitHub)
 
 GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.It gives a lot of options for help developers build and design software.
 
