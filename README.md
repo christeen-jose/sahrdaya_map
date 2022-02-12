@@ -49,17 +49,16 @@ select any options like:
  ![Alt Text](https://user-images.githubusercontent.com/57263794/121800062-5117e280-cc4d-11eb-86ff-782d8c259ec9.png)
 
 
-*** https://christeen-jose.github.io/sahrdaya_map/  (Website) ***
+***https://christeen-jose.github.io/sahrdaya_map/  (Website)***
 
-*** https://drive.google.com/drive/folders/1nwYHfZUpFeopNruKNkupXVZLGLo4JDNq?usp=sharing  (for looking files) ***
+***https://drive.google.com/drive/folders/1nwYHfZUpFeopNruKNkupXVZLGLo4JDNq?usp=sharing  (for looking files)***
 
-*** https://github.com/Christeen-Jose/sahrdaya_map  (Github) ***
+***https://github.com/Christeen-Jose/sahrdaya_map  (Github)*** 
 
 
 
 ### Group Name: Marvel
 
-### Members: Christeen Jose,
-Godwin Baiju
+### Members: Christeen Jose,Godwin Baiju
 
 
