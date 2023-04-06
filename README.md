@@ -52,7 +52,7 @@ select any options like:
 
 ***https://drive.google.com/drive/folders/1nwYHfZUpFeopNruKNkupXVZLGLo4JDNq?usp=sharing  (for looking files)***
 
-***https://github.com/Christeen-Jose/sahrdaya_map  (Github)*** 
+
 
 
 
