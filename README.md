@@ -1,8 +1,6 @@
 # Sahrdaya Map
 
-This repo contains code that contain the map of Sahrdaya college of Engineering 
-
-I'm using several concepts and platforms for Sahdaya Map
+This repository contains code for the Sahrdaya College of Engineering map, which utilizes the Dijkstra Algorithm to find the shortest path between various vertices/places. Google Cloud Platform is used to enable the Map API and obtain an API key, while Github is used for version control and software development. The map allows users to select a start and end point, and shows directions between the two locations within the college campus
 
  ## [1. Dijkstra Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
